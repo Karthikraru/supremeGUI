@@ -1,4 +1,4 @@
-# Supreme Bot with a GUI
+# Supreme Bot with a GUI (KarthikIO)
 ### A supreme autocheckout bot that purchases limited items for a user in less than 5 seconds! Make sure you look at the master branch as opposed to the main branch.
 ## Installation
 ```
